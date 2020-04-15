@@ -10,7 +10,7 @@ namespace PullRequestPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pull Request");
+            Console.WriteLine("Pull Request Updated");
         }
     }
 }
