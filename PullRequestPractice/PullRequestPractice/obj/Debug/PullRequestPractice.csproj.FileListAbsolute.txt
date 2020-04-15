@@ -1,0 +1,6 @@
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\bin\Debug\PullRequestPractice.exe.config
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\bin\Debug\PullRequestPractice.exe
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\bin\Debug\PullRequestPractice.pdb
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\obj\Debug\PullRequestPractice.csprojAssemblyReference.cache
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\obj\Debug\PullRequestPractice.exe
+C:\Users\ISR-PC\source\repos\PullRequestPractice\PullRequestPractice\obj\Debug\PullRequestPractice.pdb
